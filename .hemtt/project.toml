@@ -1,6 +1,6 @@
-name = "ArmA-3-Mod-Template"
+name = "Pride Flags"
 author = "Lupus590"
-prefix = "template"
+prefix = "Pride"
 mainprefix = "z"
 
 [version]
@@ -15,7 +15,7 @@ include = [
 ]
 
 [hemtt.release]
-folder = "ArmA-3-Mod-Template"
+folder = "Pride Flags"
 
 [hemtt.launch.default]
 presets = [
