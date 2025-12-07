@@ -1,24 +1,8 @@
-# ArmA 3 Mod Template
-
-This repository provides a template for creating and organizing an ArmA 3 mod project.
-
-## About
-
-This template is designed to help you quickly start developing your own ArmA 3 mods by providing a well-organized project structure, example configuration files, and clear documentation.
-It aims to simplify setup, encourage best practices, and save time for both new and experienced modders.
-
-You are encouraged to customize any part of the template to fit your project's needs.
+# Pride Flags
+I wanted pride flags as shoulder patches and so made a mod.
 
 ## Getting Started
-
-1. Click on `Use this template` (green button top right).
-2. Run any of the `setup` scripts, you may need to install powershell.
-3. Once setup has successfully ran you can delete the `setup`, `convertToLFS`, and `enableWorkflows` script files as you will nolonger need them.
-4. Choose a license for your project (see `LICENSE.md`).
-5. Update `.hemtt/presets/main.html` with your modlist.
-6. Edit `.hemtt/project.toml` with your project details.
-7. Review and adjust the documentation in `meta/doc/*` to fit your workflow.
-8. Update this README to reflect your project.
+See [meta/doc/Getting_Started.md](meta/doc/Getting_Started.md)
 
 ## Requirements
 
@@ -30,9 +14,6 @@ You are encouraged to customize any part of the template to fit your project's n
 - [EditorConfig for VSCode](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) makes maintaining a code style partly automatic
 
 ## License
+This project is licensed under [Arma Public License Share Alike](LICENSE.md).
 
-This template is licensed under [CC0 1.0 Universal](LICENSE.md).
-
-
-
-
+Made using [ArmA-3-Mod-Template](https://github.com/Lupus590/ArmA-3-Mod-Template)
